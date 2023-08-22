@@ -1,0 +1,15 @@
+.ViewMyPostRinght{
+
+    border: 1px solid rgba(136, 133, 133, 0.329);
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    height: 455px;
+
+}
+.heading{
+    border-bottom:1px solid rgba(136, 133, 133, 0.329) ;
+}
+.matches{
+    overflow-y: scroll !important;
+}

@@ -1,0 +1,31 @@
+.edit_profile{
+    width: 500px !important;
+    margin: auto auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 30px;
+    padding: 30px;
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+.continue{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    cursor:pointer;
+    align-items: center;
+}
+.button{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: pink;
+}
+.image_profile{
+    border-radius: 150px;
+}
